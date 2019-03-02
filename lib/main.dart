@@ -19,6 +19,13 @@ class _MyAppState extends State<MyApp> {
           title: Text("To-Do List"),
           backgroundColor: Color(0xFF212121),
         ),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () => () {},
+          tooltip: "Add item",
+          child:Icon(Icons.add),
+          ),
+        
+        
       ),
     );
   }
