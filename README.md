@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A new Flutter project (TODO_APP).
 # To be used in Flutter workshop
 
 ## Getting Started
